@@ -4,10 +4,10 @@ const technologies = [
   { name: "TensorFlow", logo: "/lovable-uploads/b7f179a8-e064-44af-9bef-54f9cc8ef455.png" },
   { name: "PyTorch", logo: "/lovable-uploads/3222acf2-7450-47a1-8b1c-967a96e221a4.png" },
   { name: "React", logo: "/lovable-uploads/927f6cd2-df68-41d5-b6e0-a7fc685f3ac3.png" },
-  { name: "Node.js", logo: "/lovable-uploads/222bd360-4984-498a-901a-0ac591a8aed7.png" },
+  { name: "Node.js", logo: "/lovable-uploads/aaf74669-b7cd-42aa-aaed-7925596d8a0d.png" },
   { name: "Docker", logo: "/lovable-uploads/9ba18650-ffb0-4e0f-92fd-0776fe470f90.png" },
   { name: "AWS", logo: "/lovable-uploads/bec94e52-cc93-4de5-b73a-0e2efc0e2693.png" },
-  { name: "PostgreSQL", logo: "/lovable-uploads/aaf74669-b7cd-42aa-aaed-7925596d8a0d.png" },
+  { name: "PostgreSQL", logo: "/lovable-uploads/222bd360-4984-498a-901a-0ac591a8aed7.png" },
 ];
 
 const Technologies = () => {
