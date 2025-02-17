@@ -1,19 +1,24 @@
 
 const education = [
   {
-    degree: "Doctorado en Inteligencia Artificial",
-    institution: "Universidad Tecnológica",
-    period: "2018 - 2022",
+    degree: "Doctorado en Neurociencia Computacional",
+    institution: "Universidad de los Andes",
+    period: "2020 - 2024",
   },
   {
-    degree: "Maestría en Ciencias de la Computación",
-    institution: "Instituto de Tecnología Avanzada",
-    period: "2016 - 2018",
+    degree: "Maestría en Inteligencia Artificial",
+    institution: "Universidad Nacional de Colombia",
+    period: "2018 - 2020",
   },
   {
-    degree: "Ingeniería en Sistemas",
-    institution: "Universidad Nacional",
-    period: "2012 - 2016",
+    degree: "Especialización en Ciencia de Datos",
+    institution: "Pontificia Universidad Javeriana",
+    period: "2017 - 2018",
+  },
+  {
+    degree: "Ingeniería de Sistemas",
+    institution: "Universidad Industrial de Santander",
+    period: "2013 - 2017",
   },
 ];
 

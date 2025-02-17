@@ -1,6 +1,7 @@
 
 import Hero from "@/components/Hero";
 import Skills from "@/components/Skills";
+import Technologies from "@/components/Technologies";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 import Projects from "@/components/Projects";
@@ -11,6 +12,7 @@ const Index = () => {
     <main className="bg-primary">
       <Hero />
       <Skills />
+      <Technologies />
       <Experience />
       <Education />
       <Projects />
