@@ -1,24 +1,24 @@
 
 const education = [
   {
-    degree: "Doctorado en Neurociencia Computacional",
-    institution: "Universidad de los Andes",
+    degree: "PhD. Computational Neuroscience",
+    institution: "The Massachusetts Institute of Technology (MIT)",
     period: "2020 - 2024",
   },
   {
-    degree: "Maestría en Inteligencia Artificial",
-    institution: "Universidad Nacional de Colombia",
+    degree: "MSc. Artificial Intelligence",
+    institution: "Imperial College of London",
     period: "2018 - 2020",
   },
   {
-    degree: "Especialización en Ciencia de Datos",
-    institution: "Pontificia Universidad Javeriana",
+    degree: "B.S. Biomedical Data Science",
+    institution: "Université Paris-Sorbonne",
     period: "2017 - 2018",
   },
   {
     degree: "Ingeniería de Sistemas",
-    institution: "Universidad Industrial de Santander",
-    period: "2013 - 2017",
+    institution: "Universidad del Rosario",
+    period: "2014 - 2017",
   },
 ];
 
